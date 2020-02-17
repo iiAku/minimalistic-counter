@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "micro -l tcp://localhost:8768",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "is-ip": "^3.1.0",
+    "keyv": "^4.0.0",
+    "micro": "^9.3.4",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  },
+  "name": "freelimit",
+  "version": "1.0.0",
+  "description": "A free limiter key/value 24h tracking",
+  "main": "index.js",
+  "author": "Yoann Gendrey",
+  "license": "MIT"
+}

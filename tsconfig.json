@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "lib": ["es2017", "dom"],
+    "resolveJsonModule": true,
+    "types": ["node"]
+  }
+}

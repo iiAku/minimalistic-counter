@@ -1,0 +1,23 @@
+{
+  "extends": ["tslint:latest", "tslint-config-prettier"],
+  "rules": {
+    "no-shadowed-variable": false,
+    "object-literal-sort-keys": false,
+    "space-before-function-paren": true,
+    "only-arrow-functions": true,
+    "semicolon": [true, "never"],
+    "curly": true,
+    "indent": [true, "spaces", 2],
+    "linebreak-style": [true, "LF"],
+    "no-duplicate-imports": true,
+    "no-require-imports": true,
+    "prefer-const": true,
+    "no-console": false,
+    "arrow-return-shorthand": true,
+    "encoding": true,
+    "no-boolean-literal-compare": true,
+    "prefer-template": false,
+    "ordered-imports": false,
+    "whitespace": [true, "check-branch", "check-operator", "check-typecast"]
+  }
+}
