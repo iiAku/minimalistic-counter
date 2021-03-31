@@ -168,11 +168,6 @@ camelcase@^4.0.0, camelcase@^4.1.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-4.1.0.tgz#d545635be1e33c542649c69173e5de6acfae34dd"
   integrity sha1-1UVjW+HjPFQmScaRc+Xeas+uNN0=
 
-centra@^2.2.1:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/centra/-/centra-2.4.0.tgz#53846f97db27705e9f90c46e0f824f6eb697e2d1"
-  integrity sha512-AWmF3EHNe/noJHviynZOrdnUuQzT5AMgl9nJPXGvnzGXrI2ZvNDrEcdqskc4EtQwt2Q1IggXb0OXy7zZ1Xvvew==
-
 chalk@2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.1.tgz#18c49ab16a037b6eb0152cc83e3471338215b66e"
@@ -1179,13 +1174,6 @@ path-key@^2.0.0, path-key@^2.0.1:
   resolved "https://registry.yarnpkg.com/path-key/-/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
-phin@^3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/phin/-/phin-3.4.1.tgz#b023d14fa86fc6e4b40b6d0dfd5fe478c9c1bbb8"
-  integrity sha512-NkBCNRPxeyrgaPlWx4DHTAdca3s2LkvIBiiG6RoSbykcOtW/pA/7rUP/67FPIinvbo7h+HENST/vJ17LdRNUdw==
-  dependencies:
-    centra "^2.2.1"
-
 pkg-up@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/pkg-up/-/pkg-up-2.0.0.tgz#c819ac728059a461cab1c3889a2be3c49a004d7f"
@@ -1627,9 +1615,9 @@ wrappy@1:
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 yallist@^2.1.2:
   version "2.1.2"
