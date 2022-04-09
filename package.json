@@ -7,7 +7,7 @@
     "is-ip": "^3.1.0",
     "keyv": "^4.0.0",
     "micro": "^9.3.4",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "micro-dev": "^3.0.0"
